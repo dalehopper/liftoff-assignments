@@ -8,11 +8,12 @@ For this assignment you will need to upload your resume, and provide links to yo
  
 ### GitHub
 Provide a link to your GitHub account here.
- 
+[Dale Hopper on GitHub](https://www.github.com/dalehopper)
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+[Dale Hopper on LinkedIn](https://www.linkedin.com/in/dale-hopper-a53316101/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Resume](https://github.com/dalehopper/liftoff-assignments/blob/master/C1-Online_Profiles/LaunchCodeResume.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
